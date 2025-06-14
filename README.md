@@ -29,7 +29,7 @@ A Flask application that allows users to request satellite imagery via SMS using
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/Satellite_SMS.git
+git clone https://github.com/EAname/Satellite_SMS.git
 cd Satellite_SMS
 ```
 
