@@ -9,6 +9,14 @@ A Flask application that allows users to request satellite imagery via SMS using
 - Fetch satellite imagery using NASA's Earth API
 - Send back satellite images via MMS
 
+## Example Images
+
+### Washington D.C. (February 1st, 2021)
+![Washington D.C. Satellite Image](images/washington_dc_2021_02_01.png)
+
+### Fresno, CA (February 1st, 2021)
+![Fresno Satellite Image](images/fresno_2021_02_01.png)
+
 ## Prerequisites
 
 - Python 3.9+
